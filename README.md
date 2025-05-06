@@ -10,6 +10,7 @@
 **Main Programming language** : Python, C++
 
 ## Projects
-(2025 AAAI **under review**) EquivFisheye: Advancing 3D Perception with Equivariant Fisheye Image Processing. Zhao Yang, Xinglin Pu, Weixiang Xu, **Zezhong Qian**, Kang Ke, Haonan Zhang, Longjun Liu
+(TCSVT **under review**) DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance. Zhao Yang, **Zezhong Qian**,  Xiaofan Li, Weixiang Xu Member,
+Gongpeng Zhao, Ruohong Yu, Lingsi Zhu and Longjun Liu
 
-(2025 ICRA **under review**) DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion. Haoteng Li, Zhao Yang, **Zezhong Qian**, Gongpeng Zhao, Yuqi Huang, Jun Yu, Longjun Liu
+(2025 ICRA **Poster**) DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion. Haoteng Li, Zhao Yang, **Zezhong Qian**, Gongpeng Zhao, Yuqi Huang, Jun Yu, Longjun Liu
