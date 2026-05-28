@@ -1,4 +1,3 @@
-```markdown
 # Hi, I am Zezhong Qian 👋
 
 I am an undergraduate student majoring in Artificial Intelligence at Xi'an Jiaotong University.  
@@ -98,4 +97,3 @@ We propose a dual-branch diffusion framework with semantic fusion to improve hig
 
 - Email: zezhongqian@stu.xjtu.edu.cn
 - GitHub: [XuWuLingYu](https://github.com/XuWuLingYu)
-```
